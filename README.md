@@ -45,6 +45,8 @@
 
 <img align="left" alt="FelipeCunha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=feliperucunha&show_icons=true&hide_border=true" />
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=feliperucunha&layout=compact)
+
 
 [twitter]: https://twitter.com/feliperubeen
 [youtube]: https://youtube.com/
