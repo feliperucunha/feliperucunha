@@ -2,8 +2,8 @@
 
 ### [PORTFOLIO](https://feliperucunha.github.io/felipecunha-en/) 
 
-## I'm a Developer! - Eu sou um Desenvolvedor!
-- 🔭 I’m currently working on improving my React skills - Aprendendo React
+## I'm a Junior Developer at Viasoft! - Eu sou um Desenvolvedor Junior na Viasoft!
+- 🔭 I’m currently working on improving my EmberJs and Sails skills - Aprendendo EmberJs e Sails
 - 🌱 I’m currently learning everything 🤣 - Aprendendo tudo
 - 👯 I’m looking to collaborate with other content creators - Quero colaborar com outros
 - 🥅 2020 Goals: Contribute more to Open Source projects and survive - Quero trabalhar mais com Open Source
