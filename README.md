@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on improving my EmberJs and Sails skills - Aprendendo EmberJs e Sails
 - 🌱 I’m currently learning everything 🤣 - Aprendendo tudo
 - 👯 I’m looking to collaborate with other content creators - Quero colaborar com outros
-- 🥅 2020 Goals: Contribute more to Open Source projects and survive - Quero trabalhar mais com Open Source
+- 🥅 2021 Goals: Learn mobile technologies - Metas: Aprender tecnologias mobile
 - ⚡ Fun fact: I love to play games and drive - Adoro jogar jogos e dirigir
 
 ### Connect with me - Fale comigo:
