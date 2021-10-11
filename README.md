@@ -2,7 +2,7 @@
 
 ### [PORTFOLIO](https://feliperucunha.github.io/felipecunha-en/) 
 
-## I'm a Junior Developer at UOL Compasso and Cosmobots! - Eu sou um Desenvolvedor Junior na UOL Compasso e Cosmobots!
+## I'm a Junior Developer at UOL Compasso! - Eu sou um Desenvolvedor Junior na UOL Compasso!
 - 🔭 I’m currently working on improving my React skills - Aprimorando React
 - 🌱 I’m currently learning everything 🤣 - Aprendendo tudo
 - 👯 I’m looking to collaborate with other content creators - Quero colaborar com outros
