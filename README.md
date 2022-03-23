@@ -2,11 +2,10 @@
 
 ### [PORTFOLIO](https://feliperucunha.github.io/felipecunha-en/) 
 
-## I'm a Junior Developer at UOL Compasso! - Eu sou um Desenvolvedor Junior na UOL Compasso!
-- 🔭 I’m currently working on improving my React skills - Aprimorando React
-- 🌱 I’m currently learning everything 🤣 - Aprendendo tudo
-- 👯 I’m looking to collaborate with other content creators - Quero colaborar com outros
-- 🥅 2021 Goals: Learn mobile technologies, like Swift - Metas: Aprender tecnologias mobile, como Swift
+## I'm a Frontend Engineer at UOL Compasso! - Eu sou um Desenvolvedor Frontend na Compass.UOL!
+- 🔭 I’m currently working on improving my NextJS skills - Estou atualmente me aprimorando no NextJS
+- 🌱 I’m really good with ReactJS - Sou muito bom com ReactJS
+- 🥅 2022 Goals: Learn mobile technologies, like Swift - Metas 2022: Aprender tecnologias mobile, como Swift
 - ⚡ Fun fact: I love to play games and drive - Adoro jogar jogos e dirigir
 
 ### Connect with me - Fale comigo:
