@@ -2,7 +2,7 @@
 
 ### [PORTFOLIO](https://feliperucunha.github.io/felipecunha-en/) 
 
-## I'm a Frontend Engineer at UOL Compasso! - Eu sou um Desenvolvedor Frontend na Compass.UOL!
+## I'm a Frontend Engineer at Compass.UOL! - Eu sou um Desenvolvedor Frontend na Compass.UOL!
 - 🔭 I’m currently working on improving my NextJS skills - Estou atualmente me aprimorando no NextJS
 - 🌱 I’m really good with ReactJS - Sou muito bom com ReactJS
 - 🥅 2022 Goals: Learn mobile technologies, like Swift - Metas 2022: Aprender tecnologias mobile, como Swift
