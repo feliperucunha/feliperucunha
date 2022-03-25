@@ -1,6 +1,6 @@
 ### Hi there, I'm Felipe - Olá, eu sou o Felipe 👋
 
-### [PORTFOLIO](https://feliperucunha.github.io/felipecunha-en/) 
+### [PORTFOLIO](https://feliperucunha.github.io/felipecunha-en/) (haven't looked into it in ages, sorry about that)
 
 ## I'm a Frontend Engineer at Compass.UOL! - Eu sou um Desenvolvedor Frontend na Compass.UOL!
 - 🔭 I’m currently working on improving my NextJS skills - Estou atualmente me aprimorando no NextJS
