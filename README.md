@@ -1,5 +1,5 @@
 ### Hi there, I'm Felipe - Olá, eu sou o Felipe 👋
-![profile count](https://komarev.com/ghpvc/?username=feliperucunha&color=red)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=feliperucunha&color=red)&nbsp; (apr 2022 - now)
 
 ### [PORTFOLIO](https://feliperucunha.github.io/felipecunha-en/) (haven't looked into it in ages, sorry about that)
 
