@@ -1,7 +1,7 @@
 ### Hi there, I'm Felipe - Olá, eu sou o Felipe 👋
 ![profile count](https://komarev.com/ghpvc/?username=feliperucunha&color=red)&nbsp; (apr 2022 - now)
 
-### [PORTFOLIO](https://feliperucunha.github.io/felipecunha-en/) (haven't looked into it in ages, sorry about that)
+### [PORTFOLIO](https://felipe-cunha.vercel.app/)
 
 ## I'm a Frontend Engineer at Compass.UOL! - Eu sou um Desenvolvedor Frontend na Compass.UOL!
 - 🔭 I’m currently working on improving my NextJS skills - Estou atualmente me aprimorando no NextJS
