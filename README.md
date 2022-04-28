@@ -1,15 +1,15 @@
-### Hi there, I'm Felipe - Olá, eu sou o Felipe 👋
+### Hello there, <strike>General Kenobi</strike> I'm Felipe
 ![profile count](https://komarev.com/ghpvc/?username=feliperucunha&color=red)&nbsp; (apr 2022 - now)
 
 ### [PORTFOLIO](https://felipe-cunha.vercel.app/)
 
-## I'm a Frontend Engineer at Compass.UOL! - Eu sou um Desenvolvedor Frontend na Compass.UOL!
-- 🔭 I’m currently working on improving my NextJS skills - Estou atualmente me aprimorando no NextJS
-- 🌱 I’m really good with ReactJS - Sou muito bom com ReactJS
-- 🥅 2022 Goals: Learn mobile technologies, like Swift - Metas 2022: Aprender tecnologias mobile, como Swift
-- ⚡ Fun fact: I love to play games and drive - Adoro jogar jogos e dirigir
+## I'm a Frontend Engineer at Compass.UOL!
+- 🔭 I’m currently working on improving my NextJS skills
+- 🌱 I’m really good with ReactJS
+- 🥅 2022 Goals: Learn mobile technologies, like Swift
+- ⚡ Fun fact: I love to play games and drive
 
-### Connect with me - Fale comigo:
+### Connect with me
 
 [<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:feliperubenmv@gmail.com?subject=[GitHub]%20Hey,%20Felipe%20Cunha)
 [<img align="left" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -19,7 +19,7 @@
 
 <br />
 
-### Languages and Tools - Linguagens e Ferramentas:
+### Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
