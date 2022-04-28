@@ -4,10 +4,10 @@
 ### [PORTFOLIO](https://felipe-cunha.vercel.app/)
 
 ## I'm a Frontend Engineer at Compass.UOL!
-- 🔭 I’m currently working on improving my NextJS skills
-- 🌱 I’m really good with ReactJS
-- 🥅 2022 Goals: Learn mobile technologies, like Swift
-- ⚡ Fun fact: I love to play games and drive
+- 🔭 I’m currently working on improving my Next.js skills
+- 🌱 I’m really good with React.js
+- 🥅 Next Goals: Learn native mobile technologies, like Swift
+- ⚡ About me: I love to play games, drive cars and watch anime
 
 ### Connect with me
 
