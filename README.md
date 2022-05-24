@@ -3,7 +3,7 @@
 
 ### [PORTFOLIO](https://felipe-cunha.vercel.app/)
 
-## I'm a Frontend Engineer at Compass.UOL!
+## I'm a Frontend Engineer.
 - 🔭 I’m currently working on improving my Next.js skills
 - 🌱 I’m really good with React.js
 - 🥅 Next Goals: Learn native mobile technologies, like Swift
