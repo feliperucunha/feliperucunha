@@ -4,8 +4,8 @@
 ### [PORTFOLIO](https://felipe-cunha.vercel.app/)
 
 ## I'm a Frontend Engineer.
-- 🔭 I’m currently working on improving my Next.js skills
-- 🌱 I’m really good with React.js
+- 🔭 I’m currently working on improving my Backend skills
+- 🌱 I’m really good with Frontend
 - 🥅 Next Goals: Learn native mobile technologies, like Swift
 - ⚡ About me: I love to play games, drive cars and watch anime
 
@@ -59,7 +59,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=feliperucunha&layout)
 
-[whatsapp]: https://wa.me/5591987485395
+[whatsapp]: https://wa.me/5541988117007
 [telegram]: https://t.me/Felipecunha04
 [twitter]: https://twitter.com/feliperubeen
 [youtube]: https://youtube.com/
