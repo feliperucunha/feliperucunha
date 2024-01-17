@@ -3,7 +3,7 @@
 
 ### [PORTFOLIO](https://felipe-cunha.vercel.app/)
 
-## I'm a Frontend Engineer.
+## I'm a Software Engineer.
 - 🔭 I’m currently working on improving my Backend skills
 - 🌱 I’m really good with Frontend
 - 🥅 Next Goals: Learn native mobile technologies, like Swift
@@ -48,16 +48,6 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-
-
-
-<br />
-<br />
-
----
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=feliperucunha&layout)
 
 [whatsapp]: https://wa.me/5541988117007
 [telegram]: https://t.me/Felipecunha04
